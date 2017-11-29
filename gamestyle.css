@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 350%;
+    color: #ffffff;
+}
+
+h2 {
+    font-family:'PT Sans', sans-serif;
+    color: gainsboro;
+    font-size: 200%;
+}
+
+h3{
+    font-family:'PT Sans', sans-serif;
+    color: #c0392b;
+    font-size: 325%;
+}
+
+p {
+    font-family:'PT Sans', sans-serif;
+    color: gainsboro;
+     font-size: 150%;
+}
